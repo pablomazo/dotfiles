@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/pablo/SRC/dotfiles/vim'
+let g:netrw_dirhist_4='/home/pablo/savedir'
+let g:netrw_dirhist_3='/home/pablo/savedir/TS'
+let g:netrw_dirhist_2='/home/pablo/savedir'
+let g:netrw_dirhist_1='/home/pablo/savedir/TS'
+let g:netrw_dirhist_0='/home/pablo/savedir'
+let g:netrw_dirhist_9='/home/pablo/.config/terminator'
+let g:netrw_dirhist_8='/home/pablo/.config'
+let g:netrw_dirhist_7='/home/pablo/SRC/pyberny/example'
+let g:netrw_dirhist_6='/home/pablo/SRC/torchDFT/src/torchdft'
