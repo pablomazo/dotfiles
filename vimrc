@@ -1,3 +1,8 @@
+call plug#begin('~/.vim/plugged')
+"  Plugings
+Plug 'dense-analysis/ale'
+call plug#end()
+
 " enable syntax highlighting
 syntax enable
 
@@ -67,6 +72,3 @@ let g:Tex_DefaultTargetFormat='pdf'
 let g:Tex_CompileRule_pdf='pdflatex --interaction=nonstopmode $*'
 " -------------for vim-latex
 
-call plug#begin('~/.vim/plugged')
-"  Plugings
-Plug 'dense-analysis/ale'
