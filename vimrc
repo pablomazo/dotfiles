@@ -42,7 +42,7 @@ set foldmethod=manual
 " Status line
 set wildmenu
 set laststatus=2
-set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c,\ per\ %p)
+set statusline=%t%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c,\ per\ %p)
 
 " ale
 let g:ale_linters = {'python': ['flake8', 'mypy']}
