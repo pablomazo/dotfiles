@@ -1,6 +1,7 @@
 call plug#begin('~/.vim/plugged')
 "  Plugings
 Plug 'dense-analysis/ale'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 " enable syntax highlighting
