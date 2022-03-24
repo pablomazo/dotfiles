@@ -8,7 +8,7 @@ shopt -s histappend
 shopt -s checkwinsize
 
 alias grep='grep --color=auto'
-alias ls='ls --color=auto'
+alias ls='ls -G'
 alias ll='ls -l'
 alias la='ls -la'
 alias l='ls -CF'
