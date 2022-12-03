@@ -6,6 +6,9 @@ Plug 'lervag/vimtex'
 Plug 'sirver/ultisnips'
 call plug#end()
 
+" colorscheme
+colorscheme pablo
+
 " enable syntax highlighting
 syntax enable
 
