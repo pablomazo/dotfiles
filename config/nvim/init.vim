@@ -4,9 +4,11 @@ Plug 'dense-analysis/ale'
 Plug 'tpope/vim-fugitive'
 Plug 'lervag/vimtex'
 Plug 'sirver/ultisnips'
+Plug 'Exafunction/codeium.vim'
 call plug#end()
 
 set ttimeoutlen=5
+set mouse=""
 " colorscheme
 colorscheme pablo
 
